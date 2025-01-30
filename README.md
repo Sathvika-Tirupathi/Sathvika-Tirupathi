@@ -1,4 +1,4 @@
-**🙋🏻‍♀️ Introducing Myself**
+## 🙋🏻‍♀️ Introducing Myself
 
 ![image_alt](https://github.com/Sathvika-Tirupathi/Sathvika-Tirupathi/blob/dbbc9f963d6d759c5d37e22a0b85f754bbc3c0a8/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 Hello, I'm Sathvika. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
@@ -8,14 +8,14 @@ Hello, I'm Sathvika. Data Analyst with expertise in data analysis and reporting,
 - Data analysis and reporting using Google Sheets and Excel.
 
   
-**📚 Projects**
+## 📚 Projects
 
-Welcome to my portfolio, where I showcase my Projects.
+Welcome to my portfolio, where I showcase my [Projects](https://github.com/Sathvika-Tirupathi/Portfolio-Guide/blob/e4049b315a69927def2c02423239fff0ff3c0f19/README.md).
 
-**🛠️ Tools**
+## 🛠️ Tools
 - Language: SQL, Python
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Tableau, Power BI
   
-**👋🏻 Connect with Me**
+## 👋🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tirupathisathvika/)
