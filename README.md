@@ -5,11 +5,15 @@ Hello, I'm Sathvika. Data Analyst with expertise in data analysis and reporting,
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau and Power BI.
 - Data analysis and reporting using Google Sheets and Excel.
+
+  
 📚 Projects
 Welcome to my portfolio, where I showcase my Projects.
+
 🛠️ Tools
 - Language: SQL, Python
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Tableau, Power BI
+  
 👋🏻 Connect with Me
 - Linked In
