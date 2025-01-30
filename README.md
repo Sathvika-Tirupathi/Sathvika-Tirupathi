@@ -8,6 +8,7 @@ Hello, I'm Sathvika. Data Analyst with expertise in data analysis and reporting,
 
   
 📚 Projects
+
 Welcome to my portfolio, where I showcase my Projects.
 
 🛠️ Tools
