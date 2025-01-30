@@ -17,4 +17,4 @@ Welcome to my portfolio, where I showcase my Projects.
 - Visualization: Tableau, Power BI
   
 👋🏻 Connect with Me
-- Linked In
+- [LinkedIn](https://www.linkedin.com/in/tirupathisathvika/)
